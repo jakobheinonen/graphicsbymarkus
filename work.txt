@@ -1,0 +1,4 @@
+Make GbM section wider
+Make all to be b-w gradients
+Remove social media buttons
+Centre GbM image - Send him dimensions required
