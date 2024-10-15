@@ -1,3 +1,3 @@
-Make GbM section wider
-Make all to be b-w gradients
-
+ALL BW GRADIENTS
+GET CONTACT PAGE WORKING
+REDIRECT IMAGES TO A MAIN SECTION FOR RY & OTHERS
